@@ -3,6 +3,8 @@
 :trophy:News: **We won the second place in the VOT-18 long-term challenge**
 
 # DaSiamRPN
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEricJaiinThai%2FDaSiamRPN.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FEricJaiinThai%2FDaSiamRPN?ref=badge_shield)
+
 
 This repository includes PyTorch code for reproducing the results on VOT2018.
 
@@ -88,6 +90,9 @@ python eval_otb.py OTB2015 "Siam*" 0 1
 # License
 Licensed under an MIT license.
 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FEricJaiinThai%2FDaSiamRPN.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FEricJaiinThai%2FDaSiamRPN?ref=badge_large)
 
 ## Citing DaSiamRPN
 
